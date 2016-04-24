@@ -501,9 +501,15 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE">
+    <option name="JADE_FILTER_NAME">
       <value>
         <option name="FOREGROUND" value="a51138" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ba2a28" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
